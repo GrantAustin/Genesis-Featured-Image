@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: I Hate Metaboxes 
+ * Plugin Name: Lazy Featured Image
  * Plugin URI: http://GrantAustin.org
- * Description: This plugin removes metaboxes that get outlandish. Best for The EDM Family (and other multi-user blogs.
- * Version: 1.0.6
+ * Description: Don't need to add the featured image twice in Genesis themes.
+ * Version: 1.0.0
  * Author: Grant Austin
  * Author URI: http://GrantAustin.org
  * License: GPL2
